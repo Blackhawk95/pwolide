@@ -1,9 +1,9 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "in a hurry",
+  "url": "https://inahurry.netlifty.app",
+  "description": "I am writing about my experiences as *insert random thing* engineer",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about my experiences as *insert random thing* engineer",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -13,8 +13,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Abhijith M",
+    "email": "abhijith.newton@gmail.com",
+    "url": "https://inahurry.netlify.app/about/"
   }
 }
