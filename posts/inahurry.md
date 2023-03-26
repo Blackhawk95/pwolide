@@ -1,5 +1,5 @@
 ---
-title: This is done in a hurry
+title: In a hurry
 description : This is my actual first post
 date: 2020-09-20
 tags:
@@ -7,8 +7,6 @@ tags:
  - Meta
 layout: layouts/post.njk
 ---
-
-## In a hurry
 
 This is like buying an office space.
 Need to tidy this place, and start properly.

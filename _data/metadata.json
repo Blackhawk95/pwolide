@@ -1,6 +1,6 @@
 {
-  "title": "in a hurry",
-  "url": "https://inahurry.netlifty.app",
+  "title": "pwoli de",
+  "url": "https://pwolide.netlifty.app",
   "description": "I am writing about my experiences as *insert random thing* engineer",
   "feed": {
     "subtitle": "I am writing about my experiences as *insert random thing* engineer",
@@ -15,6 +15,6 @@
   "author": {
     "name": "Abhijith M",
     "email": "abhijith.newton@gmail.com",
-    "url": "https://inahurry.netlify.app/about/"
+    "url": "https://pwolide.netlifty.app"
   }
 }

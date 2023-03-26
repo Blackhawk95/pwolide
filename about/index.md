@@ -7,10 +7,9 @@ eleventyNavigation:
   order: 3
 ---
 
+<img src="https://cjqcnyoufeeevygnkhqy.supabase.co/storage/v1/object/public/images/me.png" alt="drawing" width="150"/>
 
-<img src="/about/me.png" alt="drawing" width="150"/>
-
-##Abhijith M
+## Abhijith M
 
 I plan to write stuffs. (atleast this time)
 Interested in Technology
