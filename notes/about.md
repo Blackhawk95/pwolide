@@ -1,19 +1,14 @@
 ---
-layout: layouts/post.njk
 title: About Me
-templateClass: tmpl-post
-eleventyNavigation:
-  key: About Me
-  order: 3
 ---
 
-<img src="https://cjqcnyoufeeevygnkhqy.supabase.co/storage/v1/object/public/images/me.png" alt="drawing" width="150"/>
+<img src="https://github.com/Blackhawk95.png" alt="drawing" width="150"/>
 
 ## Abhijith M
 
-I plan to write stuffs. (atleast this time)
-Interested in Technology
-System Test Engineer @ Qualcomm
+I plan to write stuffs. (atleast this time)\
+Interested in Technology\
+Silicon Software Test Engineer @ Google
 
 
 

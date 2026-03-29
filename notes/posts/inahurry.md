@@ -5,7 +5,6 @@ date: 2020-09-20
 tags:
  - First
  - Meta
-layout: layouts/post.njk
 ---
 
 This is like buying an office space.

@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Abhijth's notes
+# Abhijith's notes
 
 I write about my experiences as an engineer.
 

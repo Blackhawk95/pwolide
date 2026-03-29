@@ -1,4 +1,4 @@
-# Abhijth's notes
+# Abhijith's notes
 
 Personal notes and digital garden of Abhijith M.
 
@@ -23,11 +23,11 @@ This site is built using the [Quartz 4](https://github.com/jackyzha0/quartz) pro
     ```
 3.  **Preview locally**:
     ```bash
-    npx quartz build --serve
+    npm run serve
     ```
 4.  **Build for production**:
     ```bash
-    npx quartz build
+    npm run build
     ```
 
 ## Content
@@ -36,6 +36,7 @@ All blog posts and pages are stored in the `notes/` directory. You can edit them
 
 ## Deployment
 
-The site is configured for automatic deployment via Netlify.
-- **Publish Directory**: `public`
-- **Build Command**: `npx quartz build`
+The site is configured for deployment via **Cloudflare Pages**.
+- **Build Command**: `npm run build`
+- **Build Output Directory**: `public`
+- **Node.js Version**: 22+

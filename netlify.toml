@@ -1,6 +1,0 @@
-[build]
-  publish = "public"
-  command = "npx quartz build -d notes"
-
-[build.environment]
-  NODE_VERSION = "22"
