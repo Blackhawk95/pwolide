@@ -1,5 +1,40 @@
-_site/
+# Node
 node_modules/
-package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.eslintcache
+
+# Build outputs
+public/
+_site/
+.quartz-cache/
+tsconfig.tsbuildinfo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environments and Secrets
+.env
+.env.*
+.venv/
+env/
+venv/
+
+# Performance/Profiling
+prof/
+0x/
+
+# Obsidian/Editor Specific
+.obsidian/
 .vscode/
-.github/
+.idea/
+*.swp
+*.swo
+
+# Project Specific
+private/
+.replit
+replit.nix
